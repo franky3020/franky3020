@@ -40,10 +40,6 @@
 * [Magic_Trick_App(iOS)](https://apps.apple.com/us/app/predict-card-magic-trick/id6445894214)
 * [DogeCoin DonateBox](https://github.com/dog2themoon/dogeDonateBox)
 
-## Github stats
-![GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=franky3020&theme=react-dark)
-
-
 
 <!--
 **franky3020/franky3020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
