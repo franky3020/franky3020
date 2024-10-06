@@ -36,8 +36,6 @@
 
 ### Some side project
 
-* [Magic_Trick_App(Android)](https://play.google.com/store/apps/details?id=tw.franky.predict_card)
-* [Magic_Trick_App(iOS)](https://apps.apple.com/us/app/predict-card-magic-trick/id6445894214)
 * [DogeCoin DonateBox](https://github.com/dog2themoon/dogeDonateBox)
 
 
