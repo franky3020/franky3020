@@ -34,11 +34,6 @@
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### Some side project
-
-* [DogeCoin DonateBox](https://github.com/dog2themoon/dogeDonateBox)
-
-
 <!--
 **franky3020/franky3020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
